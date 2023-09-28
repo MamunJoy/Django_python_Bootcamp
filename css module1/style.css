@@ -1,0 +1,33 @@
+body{
+    background-color:cornflowerblue;
+}
+
+h1{
+    border: 2px solid black;
+}
+
+#p1{
+    background-color:blanchedalmond;
+}
+h3{
+    background-color:blueviolet;
+}
+#first_box{
+    height: 200px;
+    width: 100%;
+    border: 5px solid gray;
+}
+.exit{
+    background-color: blue;
+}
+#first_li{
+    color: crimson;
+    text-decoration: overline;
+}
+#last_box{
+    height: 80px;
+    width: 40%;
+}
+a:visited{
+    color: greenyellow;
+}
