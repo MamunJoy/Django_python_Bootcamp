@@ -1,0 +1,22 @@
+.jumboton{
+    background-color:rgb(205, 191, 218);
+    height: 500px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-top: 45px;
+    text-align: justify;
+}
+img{
+    border: 5px solid white;
+    height: 250px;
+    width: 350px;    
+}
+.image{
+    margin-bottom: 80px;
+}
+p{
+    text-align: justify;
+}
+.reg{
+    margin-top: 3em;
+}
